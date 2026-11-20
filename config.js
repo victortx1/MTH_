@@ -5,7 +5,6 @@
   3. Para remover um cartão, apague o objeto correspondente da lista.
 */
 window.STREAMER_CONFIG = {
-  name: "SEU NOME",
   brand: "STREAMER",
   status: "AO VIVO / CRIADOR DE CONTEÚDO",
   bio: "Lives, jogos, resenhas e conteúdo. Encontre aqui todas as minhas plataformas e projetos oficiais.",
